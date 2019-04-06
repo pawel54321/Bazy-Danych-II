@@ -1,2 +1,2 @@
 # Bazy-Danych-II
-PL/SQL (2018)
+(2018) PL/SQL + Java 
